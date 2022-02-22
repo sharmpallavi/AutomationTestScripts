@@ -21,7 +21,7 @@ Information:
 -------------------------------------------------------------------------------------------------------
 
 Execution:
-1. Go to project folder 
+1. Clone the repository  
 2. Open test scripts folders and run the following command:
 	robot scriptname.robot
 3. For parameterized input run the following command:
