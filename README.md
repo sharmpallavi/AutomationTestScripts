@@ -24,6 +24,7 @@ Execution:
 1. Go to project folder 
 2. Open test scripts folders and run the following command:
 	robot scriptname.robot
-
+3. For parameterized input run the following command:
+	robot --variable parameter:parametername scriptname.robot 
 --------------------------------------------------------------------------------------------------------
 	
