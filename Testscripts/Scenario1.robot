@@ -3,7 +3,7 @@
 
 *** Settings ***
 library  SeleniumLibrary
-Resource  ../Testscripts/Keywords.robot
+Resource  ../Testscripts/Keywords.robot  #To link Tests to keywords file
 
 *** Variables ***
 ${browser}  chrome

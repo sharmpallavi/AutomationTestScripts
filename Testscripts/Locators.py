@@ -1,5 +1,7 @@
 TextInputXpath='xpath://input[@title="Search"]'
 SearchButtonXpath='xpath://input[@class="gNO89b"]'
-ClickLinkXpath='xpath://div[@class="CCgQ5 vCa9Yd QfkTvb MUxGbd v0nnCb"]'
+ClickLinkXpath='xpath://a/h3'
 GoogleLogoXpath='xpath://img[@class="lnXdpd"]'
 TextSearchResultXpath='xpath://title[contains(text(),"Google Search")]'
+ParentNode='xpath://a/h3//parent::a'
+ElementXpath='xpath://h1[contains(text(),"Find your dream job now")]'
